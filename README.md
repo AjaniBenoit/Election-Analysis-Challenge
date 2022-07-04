@@ -18,7 +18,7 @@ Completion of the an election audit of a rencent local congressional elections f
 - Data Source: election_results.csv
 - Software: Python 3.9.12, Visual Studio code, 1.68.1
 
-## Summary 
+## Election Results
 The analysis of election show that:
 - There were 369,711 votes cast in the election. 
 - Votes by county 
@@ -38,4 +38,6 @@ The analysis of election show that:
 - The winner of the election was:
     - Duaba DeGette, who received 73.8% of the vote and 272,892 number of votes. 
     
-    ![election.png](https://github.com/AjaniBenoit/Election-Analysis-Challenge/blob/main/election.png)
+![election.png](https://github.com/AjaniBenoit/Election-Analysis-Challenge/blob/main/election.png)
+    
+ ### Summary
