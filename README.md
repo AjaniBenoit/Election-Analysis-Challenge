@@ -41,3 +41,5 @@ The analysis of election show that:
 ![election.png](https://github.com/AjaniBenoit/Election-Analysis-Challenge/blob/main/election.png)
     
  ### Summary
+ 
+Denver county had the largest voter turnout.  82.8% or 306,055 votes were cast in Denver county. Doana DeGrette won the election with a total of 73.8% of votes or 272,892 number of votes. The Python code used in this analysis can be repurposed and used to automate similar election data presented in an excel or tabular data. 
